@@ -1,6 +1,6 @@
 //required dependencies/modules
 const express = require("express");
-const path = require('path')
+const path = require("path");
 //Server application at port 3001
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -16,5 +16,5 @@ app.use("/", htmlRoutes);
 app.use(express.static("public"));
 //Add listener
 app.listen(PORT, () => {
-    console.log("App is now listening on PORT: " + PORT);
+  console.log("App is now listening on PORT: " + PORT);
 });
