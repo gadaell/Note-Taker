@@ -33,18 +33,18 @@ A website that able to write and save notes and to organize my thoughts and keep
 - CSS
 - JavaScript
 - Node
+- Heroku
 
 ## Challenges
 
-- Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis cum ipsa sequi esse distinctio ipsam nobis exercitationem. Velit sequi quis minima, ipsum accusamus voluptatum, necessitatibus nostrum consectetur dolorum quidem pariatur?
-
-- Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis cum ipsa sequi esse distinctio ipsam nobis exercitationem. Velit sequi quis minima, ipsum accusamus voluptatum, necessitatibus nostrum consectetur dolorum quidem pariatur?
+- One of my hardest challenges was trying to sync the apiRoutes with the notes.html page. It kept resulting where it will not be linked to the CSS and Index.js in the public folder.
 
 ## Website
 
-- Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis cum ipsa sequi esse distinctio ipsam nobis exercitationem. Velit sequi quis minima, ipsum accusamus voluptatum, necessitatibus nostrum consectetur dolorum quidem pariatur?
+- https://github.com/gadaell/Note-Taker
 
-- Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veritatis cum ipsa sequi esse distinctio ipsam nobis exercitationem. Velit sequi quis minima, ipsum accusamus voluptatum, necessitatibus nostrum consectetur dolorum quidem pariatur?
+- https://rocky-brook-89671.herokuapp.com/
+- https://git.heroku.com/rocky-brook-89671.git
 
 ## Contribution
 
