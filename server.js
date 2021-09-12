@@ -1,5 +1,6 @@
 //required dependencies/modules
 const express = require("express");
+const fs = require("fs");
 const path = require("path");
 //Server application at port 3001
 const app = express();
