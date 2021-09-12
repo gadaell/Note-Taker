@@ -1,4 +1,6 @@
-# Note Taker Starter Code
+# Note Taker
+
+![Screenshot](./public/assets/css/images/screenshot-note-taker.PNG)
 
 ## User Story
 
